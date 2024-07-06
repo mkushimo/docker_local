@@ -1,12 +1,12 @@
 <settings xmlns="http://maven.apache.org/SETTINGS/1.1.0">
     <servers>
         <server>
-            <id>acada-snapshot</id>
+            <id>cfcu-snapshot</id>
             <username>admin</username>
             <password>admin123</password>
         </server>
         <server>
-            <id>acada-release</id>
+            <id>cfcu-release</id>
             <username>admin</username>
             <password>admin123</password>
         </server>
