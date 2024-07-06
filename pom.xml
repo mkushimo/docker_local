@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>cfcu-release</id>
 	      <name>ACADA Learning release Nexus Repository</name>
-	      <url>http://localhost:8081/repository/cfcu-release/</url>
+	      <url>http://nexus:8081/repository/cfcu-release/</url>
 	    </repository>
 
 	    <snapshotRepository>
 	      <id>cfcu-snapshot</id>
-	      <name>ACADA Learning snapshot Nexus Repository </name>
-	      <url>http://localhost:8081/repository/cfcu-snapshot/</url>
+	      <name>ACADA Learning snapshot Nexus Repository</name>
+	      <url>http://nexus:8081/repository/cfcu-snapshot/</url>
 	    </snapshotRepository>
 
 	</distributionManagement>
