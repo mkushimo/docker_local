@@ -1,12 +1,12 @@
 <settings xmlns="http://maven.apache.org/SETTINGS/1.1.0">
     <servers>
         <server>
-            <id>cfcu-snapshot</id>
+            <id>rbc-app-snapshot</id>
             <username>admin</username>
             <password>admin123</password>
         </server>
         <server>
-            <id>cfcu-release</id>
+            <id>rbc-app-release</id>
             <username>admin</username>
             <password>admin123</password>
         </server>
