@@ -96,15 +96,15 @@
 
 	<distributionManagement>
 	    <repository>
-	      <id>cfcu-release</id>
+	      <id>rbc-app-release</id>
 	      <name>ACADA Learning release Nexus Repository</name>
-	      <url>http://nexus-new:8081/repository/rbc-app-release/</url>
+	      <url>http://nexus:8081/repository/rbc-app-release/</url>
 	    </repository>
 
 	    <snapshotRepository>
-	      <id>cfcu-snapshot</id>
+	      <id>rbc-app-snapshot</id>
 	      <name>ACADA Learning snapshot Nexus Repository</name>
-	      <url>http://nexus-new:8081/repository/rbc-app-snapshot/</url>
+	      <url>http://nexus:8081/repository/rbc-app-snapshot/</url>
 	    </snapshotRepository>
 
 	</distributionManagement>
