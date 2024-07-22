@@ -96,13 +96,13 @@
 
 	<distributionManagement>
 	    <repository>
-	      <id>rbc-app-release</id>
+	      <id>nexus</id>
 	      <name>ACADA Learning release Nexus Repository</name>
 	      <url>http://nexus:8081/repository/rbc-app-release/</url>
 	    </repository>
 
 	    <snapshotRepository>
-	      <id>rbc-app-snapshot</id>
+	      <id>nexus</id>
 	      <name>ACADA Learning snapshot Nexus Repository</name>
 	      <url>http://nexus:8081/repository/rbc-app-snapshot/</url>
 	    </snapshotRepository>
